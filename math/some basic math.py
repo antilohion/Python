@@ -6,5 +6,3 @@ def middle (x,y):
 def maxi(x,y):
     if x-y>0: return x
     else: return y
-
-  
